@@ -77,14 +77,19 @@ VIII. [🙌 Acknowledgments](#-acknowledgments)
 
 ### ☑️ Prerequisites
 
-Before getting started with Process-Tech, ensure your runtime environment meets the following requirements:
+1. Study 2 engineering degrees
+2. Win position without favors from friends
+3. Bpmn ADV certification
+4. Working in a bank without anyone help
+5. Focus in your skills and work not rumors
+6. Programming logic 1,2
 
 - **Programming Language:** Error detecting primary_language: {}
 
 
 ### ⚙️ Installation
 
-Install Process-Tech using one of the following methods:
+Open source vision installation
 
 **Build from source:**
 
@@ -105,12 +110,19 @@ echo 'INSERT-INSTALL-COMMAND-HERE'
 
 
 ### 🤖 Usage
-Run Process-Tech using the following command:
-echo 'INSERT-RUN-COMMAND-HERE'
+BPMN Elements
+
+Flow Objects: These include events (triggers), activities (tasks), and gateways (decision points) that define the behavior of a process.
+
+Connecting Objects: Sequence flows, message flows, and associations connect flow objects to illustrate the order and relationship between activities.
+
+Swimlanes: Pools and lanes are used to represent participants in a process, helping to clarify roles and responsibilities.
+
+Artifacts: Additional information can be provided through data objects, groups, and annotations to enhance the understanding of the process.
+
 
 ### 🧪 Testing
-Run the test suite using the following command:
-echo 'INSERT-TEST-COMMAND-HERE'
+Export and Run
 
 ---
 ## 📌 Project Roadmap
