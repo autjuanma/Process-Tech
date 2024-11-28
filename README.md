@@ -80,9 +80,8 @@ VIII. [🙌 Acknowledgments](#-acknowledgments)
 1. Study 2 engineering degrees
 2. Win position without favors from friends
 3. Bpmn ADV certification
-4. Working in a bank without anyone help
-5. Focus in your skills and work not rumors
-6. Programming logic 1,2
+5. Focus in to improve your skills
+6. Code logic 1,2
 
 - **Programming Language:** Error detecting primary_language: {}
 
