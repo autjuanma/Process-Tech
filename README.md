@@ -12,9 +12,7 @@
 ╚════════════════════════════════════════════════════════════════════════════════════════╝
 </pre>
 </div>
-<p align="center">
-	![alt text](https://github.com/autjuanma/Process-Tech/blob/master/.QA/.git-flow/git-complex%20gitflow.jpg)
-</p>
+![alt text](https://github.com/autjuanma/Process-Tech/blob/master/.QA/.git-flow/git-complex%20gitflow.jpg)
 <p align="center">
 	<img src="https://img.shields.io/github/license/autjuanma/Process-Tech?style=plastic&logo=opensourceinitiative&logoColor=white&color=2dff00" alt="license">
 	<img src="https://img.shields.io/github/last-commit/autjuanma/Process-Tech?style=plastic&logo=git&logoColor=white&color=2dff00" alt="last-commit">
